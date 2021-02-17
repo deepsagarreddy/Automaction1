@@ -35,6 +35,7 @@ public class Logintest extends Baseclass{
 	}
 		
 		logout.logout();
+		System.out.println("logiout succussfull");
 	}
 
 }
