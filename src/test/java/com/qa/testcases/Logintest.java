@@ -21,7 +21,7 @@ public class Logintest extends Baseclass{
 		log.Username();
 		log.Password();
 		log.Loginbtn();
-		Thread.sleep(3000);
+		Thread.sleep(2000);
 		
 	if(driver.getTitle().equals("Guru99 Bank Manager HomePage"))
 	{
